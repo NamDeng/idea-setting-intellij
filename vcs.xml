@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/NamDeng/Spring-basic-roadmap.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/NamDeng/spring_basic.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\namdeng\study\springboot" />
